@@ -1,9 +1,10 @@
 <h1 align="center" style="color:#b30059;">Hey 👋, I'm <span style="color:#00bfff;">Tirth Chaudhari</span></h1>
 <h3 align="center" style="color:#9c27b0;">🔐 Cybersecurity Enthusiast | Final Year CS Student | Open to Work</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/avatar.jpg" width="120" style="border-radius:50%;" alt="Tirth's Avatar"/>
 </p>
+-->
 
 ---
 
